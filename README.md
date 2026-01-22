@@ -1,1 +1,2 @@
-# web3-resources
+# Web3 Resources
+A curated list of useful resources, links, and
