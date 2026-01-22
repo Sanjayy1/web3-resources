@@ -7,3 +7,6 @@
 ## Tools
 - Wallets
 - Block explorers
+## Communities
+- Developer forums
+- Web3 Twitter
